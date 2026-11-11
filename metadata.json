@@ -1,0 +1,6 @@
+{
+  "name": "Spark Oral and Dental Care - Dr. Aniruddha Malakar",
+  "description": "Advanced, painless and gentle dental care in Howrah by Dr. Aniruddha Malakar (BDS). Specialized in single-sitting rotary RCT, implants, cosmetic smile design, and pediatric dental treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
